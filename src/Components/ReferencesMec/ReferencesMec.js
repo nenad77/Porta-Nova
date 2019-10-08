@@ -28,7 +28,7 @@ const References = () => {
                                                 {iconOne}
                                             </div>
                                             <div className = "col-md-11">
-                                                <h5 className="text-white">Tržni centar RODA, Požarevac</h5>
+                                                <h5 className="text-white m-0">Tržni centar RODA, Požarevac</h5>
                                                 <p>Montaža aluminijumske i staklene fasade.</p>
                                             </div>
                                         </div>
@@ -40,7 +40,7 @@ const References = () => {
                                                 {iconOne}
                                             </div>
                                             <div className = "col-md-11">
-                                            <h5 className="text-white">Tržni centar Univerexport Beograd, Voždovac</h5>
+                                                <h5 className="text-white m-0">Tržni centar Univerexport Beograd, Voždovac</h5>
                                                 <p>Montaža bravarije.</p>
                                             </div>
                                         </div>
@@ -52,7 +52,7 @@ const References = () => {
                                                 {iconOne}
                                             </div>
                                             <div className = "col-md-11">
-                                            <h5 className="text-white">Stambeni objekat u Mačvanskoj ulici u Beogradu</h5>
+                                                <h5 className="text-white m-0">Stambeni objekat u Mačvanskoj ulici u Beogradu</h5>
                                                 <p>Ugradnja aluminijumske stolarije.</p>
                                             </div>
                                         </div>
@@ -64,7 +64,7 @@ const References = () => {
                                                 {iconOne}
                                             </div>
                                             <div className = "col-md-11">
-                                            <h5 className="text-white">Objekat Mil Group u Obrenovcu</h5>
+                                                <h5 className="text-white m-0">Objekat Mil Group u Obrenovcu</h5>
                                                 <p>Montaža krovnih panela i izrada metalne kostrukcije.</p>
                                             </div>
                                         </div>
@@ -80,7 +80,7 @@ const References = () => {
                                                 {iconOne}
                                             </div>
                                             <div className = "col-md-11">
-                                            <h5 className="text-white">Splav-restoran na Novom Beogradu</h5>
+                                                <h5 className="text-white m-0">Splav-restoran na Novom Beogradu</h5>
                                                 <p>Izrada metalne kostrukcije i postavljanje splava na mesto.</p>
                                             </div>
                                         </div>
@@ -92,7 +92,7 @@ const References = () => {
                                                 {iconOne}
                                             </div>
                                             <div className = "col-md-11">
-                                            <h5 className="text-white">Replika Terazija na Novom Beogradu</h5>
+                                                <h5 className="text-white m-0">Replika Terazija na Novom Beogradu</h5>
                                                 <p>Montaža skele na objektu.</p>
                                             </div>
                                         </div>
@@ -104,7 +104,7 @@ const References = () => {
                                                 {iconOne}
                                             </div>
                                             <div className = "col-md-11">
-                                            <h5 className="text-white">Objekat u Kosjeriću</h5>
+                                                <h5 className="text-white m-0">Objekat u Kosjeriću</h5>
                                                 <p>Montaža skele na objektu.</p>
                                             </div>
                                         </div>
@@ -116,8 +116,8 @@ const References = () => {
                                                 {iconOne}
                                             </div>
                                             <div className = "col-md-11">
-                                                <h5 className="text-white">Rampa</h5>
-                                                    <p>Montaža rampe na objektu.</p>
+                                                <h5 className="text-white m-0">Rampa</h5>
+                                                <p>Montaža rampe na objektu.</p>
                                             </div>
                                         </div>
                                     </li>
@@ -128,7 +128,7 @@ const References = () => {
                                                 {iconOne}
                                             </div>
                                             <div className = "col-md-11">
-                                                <h5 className="text-white">Platforma</h5>
+                                                <h5 className="text-white m-0">Platforma</h5>
                                                 <p>Izrada platforme na objektu.</p>
                                             </div>
                                         </div>
