@@ -17,19 +17,19 @@ const Carousel = () => {
                 <div className="carousel-inner">
                     <div className="carousel-item active">
                         <img src= {sliderImgOne} className="d-block w-100" alt="blue pipe" />
-                        <div className="carousel-caption d-none d-lg-block carousel-caption-center">
+                        <div className="carousel-caption carousel-caption-center">
                             <h2><span className = "secondary-color-title">We connect</span> pipes</h2>
                         </div>
                     </div>
                     <div className="carousel-item">
                         <img src= {sliderImgTwo} className="d-block w-100" alt="trench" />
-                        <div className="carousel-caption d-none d-lg-block carousel-caption-center">
+                        <div className="carousel-caption carousel-caption-center">
                             <h2><span className = "secondary-color-title">We connect</span> pipes</h2>
                         </div>
                     </div>
                     <div className="carousel-item">
                         <img src= {sliderImgThree} className="d-block w-100" alt="trench" />
-                        <div className="carousel-caption d-none d-lg-block carousel-caption-center">
+                        <div className="carousel-caption carousel-caption-center">
                             <h2><span className = "secondary-color-title">We connect</span> pipes</h2>
                         </div>
                     </div>

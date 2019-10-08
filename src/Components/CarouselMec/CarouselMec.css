@@ -24,3 +24,20 @@
 .secondary-color-title {
     color: #fff;
 }
+
+/* Small devices (landscape phones, up to 768px) */
+@media (max-width: 768px) {
+    .carousel-caption-center-mec h2 {
+        font-size: 26px;
+        text-transform: uppercase;
+        font-family: 'Teko', sans-serif;
+        background: rgba(255, 194, 14, 0.7);
+        padding: 5px 10px;
+        width: 70%;
+        margin: 0 auto;
+        color: #a71c20;
+    }
+    .carousel-caption-center-mec {
+        bottom: calc(50% - 40px) !important;
+    }
+}
