@@ -6,7 +6,7 @@ import { Link } from 'react-router-dom';
 const NavMec = () => {
 
     return (
-        <nav className="navbar fixed-top navbar-expand-lg navbar-light bg-light">
+        <nav className="navbar fixed-top navbar-expand-lg navbar-light bg-light" id = "navbar-porta">
             <a className="navbar-brand" href="/"><img className = "logo" src = { Logo } alt = "logo" /></a>
 
             <button className="navbar-toggler collapsed border-0 outline-none" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">

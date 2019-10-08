@@ -8,10 +8,16 @@
 }
 
 .card-text a {
+    font-family: 'Teko', sans-serif;
     text-decoration: none;
     color: #ffc20f;
     display: block;
     font-size: 1.3rem;
+}
+
+.card-text span {
+    font-family: 'Teko', sans-serif;
+    color: #ffc20f;
 }
 
 .card-text a:hover {

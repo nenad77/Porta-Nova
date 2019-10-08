@@ -1,4 +1,5 @@
 import React from 'react';
+import './Footer.css';
 
 
 const Footer = () => {
@@ -8,9 +9,9 @@ const Footer = () => {
         <footer className="page-footer font-small bg-dark text-white">
             <div className = "container pt-3 text-center m-auto">
                 <div className = "row text-center">
-                    <div className = "col-6 text-left">
+                    <div className = "col-6 text-left text-footer">
                         <p>Miloja Pavlovića 15a, 11000 Beograd, Voždovac</p>
-                        <p>Telefon +381 11 22 80 288</p>
+                        <p>Telefon: <a href = "tel:+381112280288">+381 11 22 80 288</a></p>
                     </div>
                     <div className = "col-6 text-right footer-copyright text-muted">
                         <p>Porta Nova &copy; 2019 Copyright</p>
