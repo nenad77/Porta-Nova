@@ -11,3 +11,8 @@
 .references-background li:last-of-type {
     margin-bottom: 0;
 }
+
+.reference-title {
+    font-family: 'Teko', sans-serif !important;
+    font-size: 3.5rem;
+}

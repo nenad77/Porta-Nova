@@ -13,3 +13,14 @@
     letter-spacing: 2px;
     text-transform: uppercase;
 }
+
+.logo-entry {
+    width: 25%;
+}
+
+/* Small devices (landscape phones, up to 768px) */
+@media (max-width: 768px) {
+    .logo-entry {
+        width: 65%;
+    }
+}

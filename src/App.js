@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 import './App.css';
-
+import "react-loader-spinner/dist/loader/css/react-spinner-loader.css";
 
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 
