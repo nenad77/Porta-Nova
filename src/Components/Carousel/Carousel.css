@@ -1,0 +1,26 @@
+.carousel-caption-center {
+    bottom: calc(50% - 64px) !important;
+}
+
+.home-slider-padding {
+    padding-top: 71px;
+}
+
+.carousel-caption-center h2 {
+    font-size: 65px;
+    text-transform: uppercase;
+    font-family: 'Teko', sans-serif;
+    background: rgba(255, 194, 14, 0.7);
+    padding: 25px 50px;
+    width: 70%;
+    margin: 0 auto;
+    color: #a71c20;
+}
+
+.carousel-indicators-home li {
+    background-color: #ffc20f !important;
+}
+
+.secondary-color-title {
+    color: #fff;
+}

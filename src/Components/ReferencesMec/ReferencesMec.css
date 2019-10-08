@@ -1,0 +1,13 @@
+.references-background {
+    background-color: #ffc20e;
+}
+
+.references-background li {
+    list-style-type: none;
+    line-height: 25px;
+    margin-bottom: 15px;
+}
+
+.references-background li:last-of-type {
+    margin-bottom: 0;
+}

@@ -1,0 +1,15 @@
+
+
+.entry-image {
+    width: 100%;
+    height: 100vh;
+    background-position: center;
+}
+
+.entry-link {
+    font-family: 'Teko', sans-serif;
+    width: 140px;
+    font-size: 18px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
