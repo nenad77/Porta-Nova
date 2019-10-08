@@ -1,6 +1,7 @@
 import React from 'react';
 import './Footer.css';
 
+const date = new Date();
 
 const Footer = () => {
 
@@ -14,14 +15,11 @@ const Footer = () => {
                         <p>Telefon: <a href = "tel:+381112280288">+381 11 22 80 288</a></p>
                     </div>
                     <div className = "col-6 text-right footer-copyright text-muted">
-                        <p>Porta Nova &copy; 2019 Copyright</p>
+                        <p>Porta Nova &copy; {date.getFullYear()} Copyright</p>
                         <p>All rights reserved.</p>
                     </div>
                 </div>
             </div>
-
-            {/* <div className="footer-copyright text-center pt-3 pb-5"></div> */}
-
         </footer>
 
     )

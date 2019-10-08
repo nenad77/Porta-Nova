@@ -27,7 +27,7 @@ const References = () => {
                                         </div>
                                         <div className = "col-md-11">
                                             <h5 className="text-white">Tržni centar RODA, Požarevac</h5>
-                                            Montaža aluminijumske i staklene fasade.
+                                            <p>Montaža aluminijumske i staklene fasade.</p>
                                         </div>
                                     </div>
                                 </li>
@@ -39,7 +39,7 @@ const References = () => {
                                         </div>
                                         <div className = "col-md-11">
                                         <h5 className="text-white">Tržni centar Univerexport Beograd, Voždovac</h5>
-                                            Montaža bravarije.
+                                            <p>Montaža bravarije.</p>
                                         </div>
                                     </div>
                                 </li>
@@ -51,7 +51,7 @@ const References = () => {
                                         </div>
                                         <div className = "col-md-11">
                                         <h5 className="text-white">Stambeni objekat u Mačvanskoj ulici u Beogradu</h5>
-                                            Ugradnja aluminijumske stolarije.
+                                            <p>Ugradnja aluminijumske stolarije.</p>
                                         </div>
                                     </div>
                                 </li>
@@ -63,7 +63,7 @@ const References = () => {
                                         </div>
                                         <div className = "col-md-11">
                                         <h5 className="text-white">Objekat Mil Group u Obrenovcu</h5>
-                                            Montaža krovnih panela i izrada metalne kostrukcije.
+                                            <p>Montaža krovnih panela i izrada metalne kostrukcije.</p>
                                         </div>
                                     </div>
                                 </li>
@@ -79,7 +79,7 @@ const References = () => {
                                         </div>
                                         <div className = "col-md-11">
                                         <h5 className="text-white">Splav-restoran na Novom Beogradu</h5>
-                                            Izrada metalne kostrukcije i postavljanje splava na mesto.
+                                            <p>Izrada metalne kostrukcije i postavljanje splava na mesto.</p>
                                         </div>
                                     </div>
                                 </li>
@@ -91,7 +91,7 @@ const References = () => {
                                         </div>
                                         <div className = "col-md-11">
                                         <h5 className="text-white">Replika Terazija na Novom Beogradu</h5>
-                                            Montaža skele na objektu.
+                                            <p>Montaža skele na objektu.</p>
                                         </div>
                                     </div>
                                 </li>
@@ -103,7 +103,7 @@ const References = () => {
                                         </div>
                                         <div className = "col-md-11">
                                         <h5 className="text-white">Objekat u Kosjeriću</h5>
-                                            Montaža skele na objektu.
+                                            <p>Montaža skele na objektu.</p>
                                         </div>
                                     </div>
                                 </li>
@@ -115,7 +115,7 @@ const References = () => {
                                         </div>
                                         <div className = "col-md-11">
                                             <h5 className="text-white">Rampa</h5>
-                                                Montaža rampe na objektu.
+                                                <p>Montaža rampe na objektu.</p>
                                         </div>
                                     </div>
                                 </li>
@@ -127,7 +127,7 @@ const References = () => {
                                         </div>
                                         <div className = "col-md-11">
                                             <h5 className="text-white">Platforma</h5>
-                                            Izrada platforme na objektu.
+                                            <p>Izrada platforme na objektu.</p>
                                         </div>
                                     </div>
                                 </li>
