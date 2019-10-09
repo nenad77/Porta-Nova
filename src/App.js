@@ -9,6 +9,10 @@ import EntryPage from './pages/entry';
 import MainPageMec from './pages/indexMec';
 import TeamPageMec from './pages/teamMec';
 
+import createHistory from 'history/createBrowserHistory'
+const history = createHistory();
+history.go(1)
+
 class App extends Component {
   render() {
     return (
