@@ -8,7 +8,7 @@ const Carousel = () => {
 
     return (
         <div className="bd-example home-slider-padding">
-            <div id="carouselExampleCaptions" className="carousel slide" data-ride="carousel">
+            <div id="carouselExampleCaptions" className="carousel slide" data-ride="carousel" data-interval="3000">
                 <ol className="carousel-indicators carousel-indicators-home">
                     <li data-target="#carouselExampleCaptions" data-slide-to="0" className="active"></li>
                     <li data-target="#carouselExampleCaptions" data-slide-to="1"></li>

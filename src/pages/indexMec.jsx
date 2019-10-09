@@ -8,6 +8,7 @@ import AboutMec from '../Components/AboutMec/AboutMec';
 import Map from '../Components/Map/Map';
 
 
+
 const MainPageMec = () => {
     return (
         <div className="App">

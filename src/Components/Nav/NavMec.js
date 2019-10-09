@@ -21,7 +21,7 @@ const NavMec = () => {
                         <a className="nav-link" href="/indexMec">Početna<span className="sr-only">(current)</span></a>
                     </li>
                     <li className="nav-item">
-                        <a className="nav-link" href="#referenceMec">Reference</a>
+                        <a className="nav-link" href="/indexMec#referenceMec">Reference</a>
                     </li>
                     <li className="nav-item">
                         <Link className = "nav-link" to = "/teamMec">Naš tim</Link>

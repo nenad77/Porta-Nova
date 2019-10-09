@@ -22,7 +22,7 @@ const Nav = () => {
                     </li>
                     
                     <li className="nav-item">
-                        <a className="nav-link" href="#references">Reference</a>
+                        <a className="nav-link" href="/indexHydro#references">Reference</a>
                     </li>
                     <li className="nav-item">
                         <Link className = "nav-link" to = "/team">Naš tim</Link>

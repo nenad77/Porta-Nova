@@ -8,7 +8,9 @@ import './Services.css';
 import AboutText from '../AboutText/AboutText';
 import AOS from 'aos';
 import 'aos/dist/aos.css';
-AOS.init();
+AOS.init({
+    duration: 1200,
+  })
 
 const iconOne = <FontAwesomeIcon icon={faTools} />
 const iconTwo = <FontAwesomeIcon icon={faPencilRuler} />

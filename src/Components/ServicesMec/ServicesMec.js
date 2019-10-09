@@ -6,6 +6,11 @@ import { faHardHat } from '@fortawesome/free-solid-svg-icons';
 import { faTruckPickup } from '@fortawesome/free-solid-svg-icons';
 import './ServicesMec.css';
 import AboutTextMec from '../AboutTextMec/AboutTextMec';
+import AOS from 'aos';
+import 'aos/dist/aos.css';
+AOS.init({
+    duration: 1200,
+  })
 
 const iconOne = <FontAwesomeIcon icon={faTools} />
 const iconTwo = <FontAwesomeIcon icon={faPencilRuler} />
