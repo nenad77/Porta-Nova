@@ -39,7 +39,7 @@ const Services = () => {
                             {iconTwo}
                         </div>
                         <div className = "col-9 col-md-9">
-                            Popravka i održavanje elektro instalacija na objektima i “pametnim zgradama”, pranje fasade "mašinsko čišćenje snega" zamena rasvete, razne vrste visinskih radova Posebno izdvajamo iz naše ponude.
+                            Popravka i održavanje elektro instalacija na objektima i “pametnim zgradama”, pranje fasade "mašinsko čišćenje snega" zamena rasvete, razne vrste visinskih radova. Posebno izdvajamo iz naše ponude RePlus – Regenerator baterija.
                         </div>
                     </div>
                 </div>
