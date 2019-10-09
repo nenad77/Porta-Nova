@@ -27,7 +27,7 @@ const NavMec = () => {
                         <Link className = "nav-link" to = "/teamMec">Naš tim</Link>
                     </li>
                     <li className="nav-item">
-                        <Link className = "btn btn-warning nav-link-button" to = "/indexHydro" role = "button">Hidrotehnika</Link>
+                        <Link className = "btn btn-warning nav-link-button" to = "/indexHydro" role = "button" target="_parent">Hidrotehnika</Link>
                     </li>
                 </ul>
             </div>

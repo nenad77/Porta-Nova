@@ -28,7 +28,7 @@ const Nav = () => {
                         <Link className = "nav-link" to = "/team">Naš tim</Link>
                     </li>
                     <li className="nav-item">
-                        <Link className = "btn btn-warning nav-link-button" to = "/indexMec" role = "button">Mašinstvo</Link>
+                        <Link className = "btn btn-warning nav-link-button" to = "/indexMec" role = "button" target="_parent">Mašinstvo</Link>
                     </li>
                 </ul>
             </div>
