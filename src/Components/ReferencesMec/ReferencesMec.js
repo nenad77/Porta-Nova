@@ -92,18 +92,6 @@ const References = () => {
                                                 {iconOne}
                                             </div>
                                             <div className = "col-md-11">
-                                                <h5 className="text-white m-0">Replika Terazija na Novom Beogradu</h5>
-                                                <p>Montaža skele na objektu.</p>
-                                            </div>
-                                        </div>
-                                    </li>
-
-                                    <li>
-                                        <div className = "row">
-                                            <div className = "col-md-1">
-                                                {iconOne}
-                                            </div>
-                                            <div className = "col-md-11">
                                                 <h5 className="text-white m-0">Objekat u Kosjeriću</h5>
                                                 <p>Montaža skele na objektu.</p>
                                             </div>
