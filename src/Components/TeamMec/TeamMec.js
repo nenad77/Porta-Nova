@@ -20,7 +20,7 @@ const TeamMec = () => {
                         <div className="card-body card-body-team">
                             <h4 className="card-text">Generalni direktor:</h4>
                             <h4 className="card-text">Spasoje Matijević</h4>
-                            <p className = "card-text"><a href="tel:+381 60 5 777 056">+381 60 5 777 062</a><a href="mailto:spasoje.matijevic@portanova.rs">spasoje.matijevic@portanova.rs.</a></p>
+                            <p className = "card-text"><a href="tel:+381605777062">+381 60 5 777 062</a><a href="mailto:spasoje.matijevic@portanova.rs">spasoje.matijevic@portanova.rs.</a></p>
                         </div>
                     </div>
                 </div>

@@ -8,10 +8,8 @@ import TeamPage from './pages/team';
 import EntryPage from './pages/entry';
 import MainPageMec from './pages/indexMec';
 import TeamPageMec from './pages/teamMec';
-
-import createHistory from 'history/createBrowserHistory'
-const history = createHistory();
-history.go(1)
+import RentiranjePage from './pages/rentiranje';
+import ZastupnistvoPage from './pages/zastupnistvo';
 
 class App extends Component {
   render() {
@@ -23,6 +21,8 @@ class App extends Component {
           <Route exact path = "/indexMec" component = {MainPageMec}/>
           <Route exact path = "/team" component = {TeamPage}/>
           <Route exact path = "/teamMec" component = {TeamPageMec}/>
+          <Route exact path = "/zastupnistvo" component = {ZastupnistvoPage}/>
+          <Route exact path = "/rentiranje" component = {RentiranjePage}/>
         </Switch>
       </Router>
     )

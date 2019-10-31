@@ -24,6 +24,12 @@ const NavMec = () => {
                         <a className="nav-link" href="/indexMec#referenceMec">Reference</a>
                     </li>
                     <li className="nav-item">
+                        <Link className = "nav-link" to = "/zastupnistvo">Zastupništva</Link>
+                    </li>
+                    <li className="nav-item">
+                        <Link className = "nav-link" to = "/rentiranje">Rentiranje mašina</Link>
+                    </li>
+                    <li className="nav-item">
                         <Link className = "nav-link" to = "/teamMec">Naš tim</Link>
                     </li>
                     <li className="nav-item">

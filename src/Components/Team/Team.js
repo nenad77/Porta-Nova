@@ -3,7 +3,6 @@ import teamOne from '../../img/ivanaTim.jpg';
 import teamTwo from '../../img/mladenTim.jpg';
 import teamThree from '../../img/nikolaTim.jpg';
 import './Team.css';
-import TeamHero from '../TeamHero/TeamHero';
 
 
 const Team = () => {
