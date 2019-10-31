@@ -7,6 +7,8 @@ import sliderImgFive from '../../img/reference-slider-23.jpg';
 import sliderImgSix from '../../img/reference-slider-24.jpg';
 import sliderImgEight from '../../img/reference-slider-25.jpg';
 import sliderImgNine from '../../img/reference-slider-26.jpg';
+import sliderImgTen from '../../img/reference-slider-27.jpg';
+import sliderImgEleven from '../../img/reference-slider-28.jpg';
 
 const ReferenceSlider = () => {
 
@@ -36,6 +38,12 @@ const ReferenceSlider = () => {
                 </div>
                 <div className="carousel-item">
                     <img className="d-block w-100" src= {sliderImgNine} alt="Nineth slide" />
+                </div>
+                <div className="carousel-item">
+                    <img className="d-block w-100" src= {sliderImgTen} alt="Nineth slide" />
+                </div>
+                <div className="carousel-item">
+                    <img className="d-block w-100" src= {sliderImgEleven} alt="Nineth slide" />
                 </div>
             </div>
         </div>

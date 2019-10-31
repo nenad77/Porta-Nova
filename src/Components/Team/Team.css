@@ -28,3 +28,7 @@
 .card {
     margin-bottom: 15px;
 }
+
+.card-body-team {
+    height: 174px;
+}

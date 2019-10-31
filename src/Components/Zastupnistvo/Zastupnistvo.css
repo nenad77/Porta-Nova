@@ -1,5 +1,3 @@
-.background-zastupnistvo {
-    background-image: url("../../img/reference-slider-23.jpg");
-    background-repeat: no-repeat;
-    background-size: contain;
+.container-dealers .card {
+    border: 1px solid #ffc20f !important;
 }
