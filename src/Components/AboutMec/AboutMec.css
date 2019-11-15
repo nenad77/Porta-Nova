@@ -16,3 +16,32 @@ h1.main-title {
     height: 8px;
     margin: 60px auto 40px;
 }
+
+.buttonPrim {
+    background-color: #ffc20f !important;
+    color: black !important;
+    border: none !important;
+    font-family: 'Teko', sans-serif !important;
+    letter-spacing: 2px !important;
+}
+
+.certificate {
+    height: 250px;
+}
+
+.titleCert {
+    font-family: 'Teko', sans-serif;
+    font-size: 30px;
+}
+
+.closeButton {
+    background-color: #ffc20f !important;
+    color: black !important;
+    border: none !important;
+    font-family: 'Teko', sans-serif !important;
+    font-size: 20px !important;
+}
+
+.textMain {
+    margin-bottom: 0px;
+}
