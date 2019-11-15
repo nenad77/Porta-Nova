@@ -30,44 +30,40 @@ const TeamMec = () => {
 
                 <div className = "col-12 col-md-3">
                     <div className="card">
-                        <img className="card-img-top" src={angelo} alt="Card cap" />
-                        <div className="card-body card-body-team">
-                            <h4 className="card-text">Stručni saradnik:</h4>
-                            <h4 className="card-text">Angelo Pio Carioni</h4>
-                            
-                        </div>
-                    </div>
-                </div>
-
-                <div className = "col-12 col-md-3">
-                    <div className="card">
                         <div className="text-center avatar">{iconThree}</div>
                         <div className="card-body card-body-team">
                             <h4 className="card-text">Referent uvoza i administracije:</h4>
-                            <h4 className="card-text">Darko Stojanović </h4>
-                            
+                            <h4 className="card-text">Darko Stojanović </h4>                        
                         </div>
                     </div>
                 </div>
 
                 <div className = "col-12 col-md-3">
                     <div className="card">
-                        <img className="card-img-top" src={angelo} alt="Card cap" />
+                    <div className="text-center avatar">{iconThree}</div>
                         <div className="card-body card-body-team">
                             <h4 className="card-text">Stručni tehničar:</h4>
-                            <h4 className="card-text">Nenad Novaković</h4>
-                            
+                            <h4 className="card-text">Nenad Novaković</h4>                       
                         </div>
                     </div>
                 </div>
                 
                 <div className = "col-12 col-md-3">
                     <div className="card">
-                        <img className="card-img-top" src={angelo} alt="Card cap" />
+                    <div className="text-center avatar">{iconThree}</div>
                         <div className="card-body card-body-team">
                             <h4 className="card-text">stručni tehničar/električar:</h4>
-                            <h4 className="card-text">Zlatko Arnaut</h4>
-                            
+                            <h4 className="card-text">Zlatko Arnaut</h4>          
+                        </div>
+                    </div>
+                </div>
+
+                <div className = "col-12 col-md-3">
+                    <div className="card">
+                        <img className="card-img-top" src={angelo} alt="Card cap" />
+                        <div className="card-body card-body-team">
+                            <h4 className="card-text">Stručni saradnik:</h4>
+                            <h4 className="card-text">Angelo Pio Carioni</h4>    
                         </div>
                     </div>
                 </div>

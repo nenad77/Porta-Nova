@@ -1,3 +1,8 @@
 .avatar {
-    height: 253px;
+    height: 333px;
+    font-size: 80px;
+    color: #ffc107;
+}
+.avatar svg {
+    height: 333px;
 }
