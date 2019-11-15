@@ -35,6 +35,40 @@ const TeamMec = () => {
                         </div>
                     </div>
                 </div>
+
+                <div className = "col-12 col-md-3">
+                    <div className="card">
+                        <img className="card-img-top" src={angelo} alt="Card cap" />
+                        <div className="card-body card-body-team">
+                            <h4 className="card-text">Referent uvoza i administracije:</h4>
+                            <h4 className="card-text">Darko Stojanović </h4>
+                            
+                        </div>
+                    </div>
+                </div>
+
+                <div className = "col-12 col-md-3">
+                    <div className="card">
+                        <img className="card-img-top" src={angelo} alt="Card cap" />
+                        <div className="card-body card-body-team">
+                            <h4 className="card-text">Stručni tehničar:</h4>
+                            <h4 className="card-text">Nenad Novaković</h4>
+                            
+                        </div>
+                    </div>
+                </div>
+                
+                <div className = "col-12 col-md-3">
+                    <div className="card">
+                        <img className="card-img-top" src={angelo} alt="Card cap" />
+                        <div className="card-body card-body-team">
+                            <h4 className="card-text">Stručni tehničar/električar:</h4>
+                            <h4 className="card-text">Zlatko Arnaut</h4>
+                            
+                        </div>
+                    </div>
+                </div>
+
             </div>
         </div>
         </Fragment>

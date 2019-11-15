@@ -15,9 +15,11 @@ const Rentiranje = () => {
         <RentHero />
         <div className = "container">
             
-            <h1 className = "my-5 main-title">Rentiranje mašina</h1>
+            <h1 className = "my-5 main-title">Iznajmljivanje građevinskih mašina</h1>
 
-            <p>Throughput offline this discussion and what are the expectations how much bandwidth do you have eat our own dog food blue sky and baseline the procedure and samepage your department. Anti-pattern upsell can you send me an invite? nor quick-win or tribal knowledge quick-win and re-inventing the wheel. Dog and pony show post launch can we take this offline, nor shotgun approach we need more paper. What the high performance keywords thought shower, for product market fit first-order optimal strategies so build on a culture of contribution and inclusion. Fast track pipeline.</p>
+            <p>Još jedna od delatnosti kompanije Porta Nova je iznajmljivanje građevinskih mašina sa ili bez rukovaoca. U ponudi su valjak Bitelli 12 tona (guma-pegla), Kombinovana mašina ICB4CX, mini utovarivač model Gehl, kamion kiper zapremine 10m3 Mercedes 2640, vibro nabijač (ploča) i pokretna skela.
+            Mašine iznajmljujemo po radnom satu, random danu ili po zahtevu klijenata.
+            Posedujemo  sve neophodne sertifikate, znanja, veštine i iskustvo za brzo i kvalitetno obavljanje i najzahtevnijih montažerskih radova.</p>
 
             <div className = "row">
                 <div className = "col-xs-12 col-md-6 pt-4">
