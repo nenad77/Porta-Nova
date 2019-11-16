@@ -23,13 +23,13 @@ const Zastupnistvo = () => {
                 
                     <h1 className = "my-5 main-title">Uvoz i zastupanje </h1>
 
-                    <p>Pored održavanja vršimo nabavku, isporuku i montažu rezervnih delova za industrijska postrojenja pre svega iz Italije i  Nemačke kao i ostatka evrope. 
+                    <p className = "mb-5">Pored održavanja vršimo nabavku, isporuku i montažu rezervnih delova za industrijska postrojenja pre svega iz Italije i  Nemačke kao i ostatka evrope. 
                     Porta Nova je zvanični zastupnik nemačke firme Neufilter Gronau za Srbiju,Rumuniju,Crnu Goru, Makedoniju, Hrvatsku i Bosnu i Hercegovinu. 
                     Kompanije partneri čiju robu uvozimo, distribuiramo i servisiramo su Trasmetal, CM Automazione, Brofind, Sirca International, Felm, Fluimac, TGEVentilatori, Thermotrade.
                     Pored navedenog bavimo se izradom i ugradnjom različitih tipova čeličnih konstrukcija. 
                     Takođe vršimo usluge konsaltinga i celokupne organizacione i administrativne podrške  italijanskim kompanijama koje započinju poslovanje u Srbiji i regionu ili povremeno rade na određenim projektima.</p>
                 
-                <div className = "mb-4">
+                <div className = "my-4">
                     <div className="card-deck">
                         <div className="card">
                             <img src= {neuFilter} className="card-img-top w-75 text-center p-3" alt="Neu filter logo" />

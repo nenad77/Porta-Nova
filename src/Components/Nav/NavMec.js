@@ -1,7 +1,7 @@
 import React from 'react';
 import Logo from '../../img/logo.png';
 import './Nav.css';
-import { Link } from 'react-router-dom';
+import { NavLink, Link } from 'react-router-dom';
 
 const NavMec = () => {
 
@@ -17,20 +17,20 @@ const NavMec = () => {
 
             <div className="collapse navbar-collapse justify-content-end" id="navbarSupportedContent">
                 <ul className="navbar-nav text-center text-uppercase">
-                    <li className="nav-item active">
-                        <a className="nav-link" href="/indexMec">Početna<span className="sr-only">(current)</span></a>
+                    <li className="nav-item">
+                        <NavLink className="nav-link" to="/indexMec">Početna<span className="sr-only">(current)</span></NavLink>
                     </li>
                     <li className="nav-item">
                         <a className="nav-link" href="/indexMec#referenceMec">Reference</a>
                     </li>
                     <li className="nav-item">
-                        <Link className = "nav-link" to = "/zastupnistvo">Zastupništva</Link>
+                        <NavLink activeClassName = "active" className = "nav-link" to = "/zastupnistvo">Zastupništva</NavLink>
                     </li>
                     <li className="nav-item">
-                        <Link className = "nav-link" to = "/rentiranje">Rentiranje mašina</Link>
+                        <NavLink activeClassName = "active" className = "nav-link" to = "/rentiranje">Rentiranje mašina</NavLink>
                     </li>
                     <li className="nav-item">
-                        <Link className = "nav-link" to = "/teamMec">Naš tim</Link>
+                        <NavLink activeClassName = "active" className = "nav-link" to = "/teamMec">Naš tim</NavLink>
                     </li>
                     <li className="nav-item">
                         <Link className = "btn btn-warning nav-link-button" to = "/indexHydro" role = "button" target="_parent">Hidrotehnika</Link>

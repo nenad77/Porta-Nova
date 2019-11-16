@@ -18,15 +18,19 @@ h1.main-title {
 }
 
 .buttonPrim {
-    background-color: #ffc20f !important;
-    color: black !important;
-    border: none !important;
-    font-family: 'Teko', sans-serif !important;
-    letter-spacing: 2px !important;
+    color: #a71c20;
+    font-family: 'Teko', sans-serif;
+    letter-spacing: 2px;
+    cursor: pointer;
+    font-size: 1.3rem;
+}
+
+.buttonPrim:hover {
+    color: #ffc20f;
 }
 
 .certificate {
-    height: 250px;
+    width: 100%;
 }
 
 .titleCert {

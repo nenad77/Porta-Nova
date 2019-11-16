@@ -3,9 +3,9 @@ import team from '../../img/spasojeTim.jpg';
 import angelo from '../../img/angelo.png';
 import './TeamMec.css';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faHardHat } from '@fortawesome/free-solid-svg-icons';
+import { faUser } from '@fortawesome/free-solid-svg-icons';
 
-const iconThree = <FontAwesomeIcon icon={faHardHat} />
+const iconThree = <FontAwesomeIcon icon={faUser} />
 
 
 const TeamMec = () => {
