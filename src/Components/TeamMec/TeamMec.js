@@ -1,6 +1,7 @@
 import React, {Fragment} from 'react';
 import team from '../../img/spasojeTim.jpg';
 import angelo from '../../img/angelo.png';
+import darko from '../../img/darko.jpg';
 import './TeamMec.css';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faUser } from '@fortawesome/free-solid-svg-icons';
@@ -30,10 +31,11 @@ const TeamMec = () => {
 
                 <div className = "col-12 col-md-3">
                     <div className="card">
-                        <div className="text-center avatar">{iconThree}</div>
+                        <img className="card-img-top" src={darko} alt="darko" />
                         <div className="card-body card-body-team">
                             <h4 className="card-text">Referent uvoza i administracije:</h4>
-                            <h4 className="card-text">Darko Stojanović </h4>                        
+                            <h4 className="card-text">Darko Stojanović </h4>
+                            <p className = "card-text"><a href="tel:+381605777095">+381 60 5777 095</a></p>                     
                         </div>
                     </div>
                 </div>
