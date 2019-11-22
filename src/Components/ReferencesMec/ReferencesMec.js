@@ -28,8 +28,8 @@ const References = () => {
                                                 {iconOne}
                                             </div>
                                             <div className = "col-md-11">
-                                                <h5 className="text-white m-0">Tržni centar RODA, Požarevac</h5>
-                                                <p>Montaža aluminijumske i staklene fasade.</p>
+                                                <h5 className="text-white m-0">Robert Bosch doo</h5>
+                                                <p>Tekuće održavanje sistema za farbanje, preseljenje linija za proizovodnju, isporuka delova i opreme.</p>
                                             </div>
                                         </div>
                                     </li>
@@ -40,8 +40,8 @@ const References = () => {
                                                 {iconOne}
                                             </div>
                                             <div className = "col-md-11">
-                                                <h5 className="text-white m-0">Tržni centar Univerexport Beograd, Voždovac</h5>
-                                                <p>Montaža bravarije.</p>
+                                                <h5 className="text-white m-0">ZF Serbia doo</h5>
+                                                <p>Montaža sistema za tretman vode i isporuka rezernih delova.</p>
                                             </div>
                                         </div>
                                     </li>
@@ -52,8 +52,8 @@ const References = () => {
                                                 {iconOne}
                                             </div>
                                             <div className = "col-md-11">
-                                                <h5 className="text-white m-0">Stambeni objekat u Mačvanskoj ulici u Beogradu</h5>
-                                                <p>Ugradnja aluminijumske stolarije.</p>
+                                                <h5 className="text-white m-0">Petruzalek doo</h5>
+                                                <p>Puštanje u rad i servisiranje mašina za pakovanje.</p>
                                             </div>
                                         </div>
                                     </li>
@@ -64,8 +64,8 @@ const References = () => {
                                                 {iconOne}
                                             </div>
                                             <div className = "col-md-11">
-                                                <h5 className="text-white m-0">Objekat Mil Group u Obrenovcu</h5>
-                                                <p>Montaža krovnih panela i izrada metalne kostrukcije.</p>
+                                                <h5 className="text-white m-0">IS Industrial Systems doo (Gunja - Hrvatska)</h5>
+                                                <p>Montaža transportera i sistema za farbanja.</p>
                                             </div>
                                         </div>
                                     </li>
@@ -80,8 +80,8 @@ const References = () => {
                                                 {iconOne}
                                             </div>
                                             <div className = "col-md-11">
-                                                <h5 className="text-white m-0">Splav-restoran na Novom Beogradu</h5>
-                                                <p>Izrada metalne kostrukcije i postavljanje splava na mesto.</p>
+                                                <h5 className="text-white m-0">SMEG (Guastalla - Italija)</h5>
+                                                <p>Montaža unutrašnjeg transportnog sistema (pokretnih traka).</p>
                                             </div>
                                         </div>
                                     </li>
@@ -92,8 +92,8 @@ const References = () => {
                                                 {iconOne}
                                             </div>
                                             <div className = "col-md-11">
-                                                <h5 className="text-white m-0">Objekat u Kosjeriću</h5>
-                                                <p>Montaža skele na objektu.</p>
+                                                <h5 className="text-white m-0">Proma Automotive  (Pozzilli - Italija)</h5>
+                                                <p>Montaža unutrašnjeg transportnog sistema.</p>
                                             </div>
                                         </div>
                                     </li>
@@ -104,8 +104,8 @@ const References = () => {
                                                 {iconOne}
                                             </div>
                                             <div className = "col-md-11">
-                                                <h5 className="text-white m-0">Rampa</h5>
-                                                <p>Montaža rampe na objektu.</p>
+                                                <h5 className="text-white m-0"> Honda Italia (Atessa - Italija)</h5>
+                                                <p>Montaža unutrašnjeg transportnog sistema.</p>
                                             </div>
                                         </div>
                                     </li>
@@ -116,8 +116,20 @@ const References = () => {
                                                 {iconOne}
                                             </div>
                                             <div className = "col-md-11">
-                                                <h5 className="text-white m-0">Platforma</h5>
-                                                <p>Izrada platforme na objektu.</p>
+                                                <h5 className="text-white m-0">OMR Automotive (Rezzato - Italija)</h5>
+                                                <p>Modifikacija komore za pranje delova za automobile.</p>
+                                            </div>
+                                        </div>
+                                    </li>
+
+                                    <li>
+                                        <div className = "row">
+                                            <div className = "col-md-1">
+                                                {iconOne}
+                                            </div>
+                                            <div className = "col-md-11">
+                                                <h5 className="text-white m-0">Tecnofirma S.p.A. (Monza - Italija)</h5>
+                                                <p>Montaža sistema za farbanje i komora za pranje delova u autoindustriji.</p>
                                             </div>
                                         </div>
                                     </li>

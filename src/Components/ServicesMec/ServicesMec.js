@@ -51,7 +51,7 @@ const Services = () => {
                             {iconThree}
                         </div>
                         <div className = "col-9 col-md-9">
-                            Postavljanje i održavanje elektro instalacija, montaža mašina precizne mehanike i puštanje u rad različite vrste atestiranog varenja.
+                            Postavljanje i održavanje elektro instalacija, montaža mašina precizne mehanike i puštanje u rad različite vrste atestiranog varenja. Servisiranje mašina za pakovanje. 
                         </div>
                     </div>
                 </div>
