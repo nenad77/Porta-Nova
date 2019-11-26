@@ -2,6 +2,7 @@ import React, {Fragment} from 'react';
 import team from '../../img/spasojeTim.jpg';
 import angelo from '../../img/angelo.png';
 import darko from '../../img/darko.jpg';
+import nenad from '../../img/nenad.jpg';
 import './TeamMec.css';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faUser } from '@fortawesome/free-solid-svg-icons';
@@ -42,10 +43,11 @@ const TeamMec = () => {
 
                 <div className = "col-12 col-md-3">
                     <div className="card">
-                    <div className="text-center avatar">{iconThree}</div>
+                    <img className="card-img-top" src={nenad} alt="nenad" />
                         <div className="card-body card-body-team">
                             <h4 className="card-text">Stručni tehničar:</h4>
-                            <h4 className="card-text">Nenad Novaković</h4>                       
+                            <h4 className="card-text">Nenad Novaković</h4>   
+                            <p className = "card-text"><a href="tel:+381605777098">+381 60 5777 098</a></p>                         
                         </div>
                     </div>
                 </div>
@@ -54,8 +56,9 @@ const TeamMec = () => {
                     <div className="card">
                     <div className="text-center avatar">{iconThree}</div>
                         <div className="card-body card-body-team">
-                            <h4 className="card-text">stručni tehničar/električar:</h4>
-                            <h4 className="card-text">Zlatko Arnaut</h4>          
+                            <h4 className="card-text">Stručni tehničar/električar:</h4>
+                            <h4 className="card-text">Zlatko Arnaut</h4>  
+                            <p className = "card-text"><a href="tel:+ 381605777285">+ 381 60 5777 285</a></p>        
                         </div>
                     </div>
                 </div>
