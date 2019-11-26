@@ -3,6 +3,7 @@ import team from '../../img/spasojeTim.jpg';
 import angelo from '../../img/angelo.png';
 import darko from '../../img/darko.jpg';
 import nenad from '../../img/nenad.jpg';
+import zlatko from '../../img/zlatko.jpg';
 import './TeamMec.css';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faUser } from '@fortawesome/free-solid-svg-icons';
@@ -54,7 +55,7 @@ const TeamMec = () => {
                 
                 <div className = "col-12 col-md-3">
                     <div className="card">
-                    <div className="text-center avatar">{iconThree}</div>
+                    <img className="card-img-top" src={zlatko} alt="zlatko" />
                         <div className="card-body card-body-team">
                             <h4 className="card-text">Stručni tehničar/električar:</h4>
                             <h4 className="card-text">Zlatko Arnaut</h4>  
