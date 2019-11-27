@@ -5,10 +5,7 @@ import darko from '../../img/darko.jpg';
 import nenad from '../../img/nenad.jpg';
 import zlatko from '../../img/zlatko.jpg';
 import './TeamMec.css';
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faUser } from '@fortawesome/free-solid-svg-icons';
 
-const iconThree = <FontAwesomeIcon icon={faUser} />
 
 
 const TeamMec = () => {

@@ -1,3 +1,7 @@
 .container-dealers .card {
     border: 1px solid #ffc20f !important;
 }
+
+.container-dealers .card-body {
+    height: 485px;
+}
