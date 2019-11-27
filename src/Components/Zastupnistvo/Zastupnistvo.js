@@ -33,7 +33,7 @@ const Zastupnistvo = () => {
                                 <img src= {neuFilter} className="card-img-top w-75 text-center p-3" alt="Neu filter logo" />
                                 <div className="card-body">
                                     <h5 className="card-title">Neu Filter</h5>
-                                    <p className="card-text">NeuFilter je na tržištu je od 2002. godine i specijalizovao se za vazdušne filtere koje imaju složenu industrijsku primenu. Naši filteri su se dobro dokazali u automobilskoj, farmaceutskoj industriji, industriji nameštaja u tehnologiji klimatizacije i ventilacije, u proizvodnji instrumenata i u mnogim drugim industrijama.</p>
+                                    <p className="card-text">NeuFilter je na tržištu je od 2002. godine i specijalizovao se za vazdušne filtere koje imaju složenu industrijsku primenu. Njihovi filteri su se dobro dokazali u automobilskoj, farmaceutskoj industriji, industriji nameštaja u tehnologiji klimatizacije i ventilacije, u proizvodnji instrumenata i u mnogim drugim industrijama.</p>
                                     <p className="card-text"><small className="text-muted text-uppercase"><a href = "https://www.neufilter.de/" target = "_blank" rel="noopener noreferrer">Link do proizvođača</a></small></p>
                                 </div>
                             </div>
@@ -43,7 +43,7 @@ const Zastupnistvo = () => {
                                 <img src= {cm} className="card-img-top w-75 text-center p-3" alt="CM logo" />
                                 <div className="card-body">
                                     <h5 className="card-title">CM Automazione</h5>
-                                    <p className="card-text">Se bavi projektovanjem, proizvodnjom ,montažom kao i održavanjem unutrašnjih pokretnih fabričkih linija, nadzemnih i podnih konvejera, nudeći monoredne, dvoredne i ručne transportne trake. Ponuda i delatnost kompanije CM Automazione obuhvata sve od projektovanja, roizvodnje, montaže do održavanja, servisiranja i nabavke rezervnih delova.</p>
+                                    <p className="card-text">Se bavi projektovanjem, proizvodnjom ,montažom kao i održavanjem unutrašnjih pokretnih fabričkih linija, nadzemnih i podnih konvejera, nudeći monoredne, dvoredne i ručne transportne trake. Ponuda i delatnost kompanije CM Automazione obuhvata sve od projektovanja, proizvodnje, montaže do održavanja, servisiranja i nabavke rezervnih delova.</p>
                                     <p className="card-text"><small className="text-muted text-uppercase"><a href = "http://cmautomazione.it/" target = "_blank" rel="noopener noreferrer">Link do proizvođača</a></small></p>
                                 </div>
                             </div>
@@ -77,7 +77,7 @@ const Zastupnistvo = () => {
                                 <img src= {fluimac} className="card-img-top w-75 text-center p-3" alt="Fluimac logo" />
                                 <div className="card-body">
                                     <h5 className="card-title">Fluimac</h5>
-                                    <p className="card-text">Fluimac je italijanski proizvođač pneumatskih pumpi i opreme. Glavni proizvod kompanije Fluimac su  pneumatske pumpe sa dvostrukom membranom. Deo asortimana su i peristaltičke pumpe, centrifugalne pumpe sa magnetnim pogonom, mikseri,bubanj pumpe,amortizeri, elektromehaničke pumpe za doziranje kao i kompletan asorti,man pratećih delova i opreme.</p>
+                                    <p className="card-text">Fluimac je italijanski proizvođač pneumatskih pumpi i opreme. Glavni proizvod kompanije Fluimac su pneumatske pumpe sa dvostrukom membranom. Deo asortimana su i peristaltičke pumpe, centrifugalne pumpe sa magnetnim pogonom, mikseri, bubanj pumpe, amortizeri, elektromehaničke pumpe za doziranje kao i kompletan asortiman pratećih delova i opreme.</p>
                                     <p className="card-text"><small className="text-muted text-uppercase"><a href = "https://www.fluimac.com/it" target = "_blank" rel="noopener noreferrer">Link do proizvođača</a></small></p>
                                 </div>
                             </div>
@@ -87,7 +87,7 @@ const Zastupnistvo = () => {
                                 <img src= {sirca} className="card-img-top w-75 text-center p-3" alt="Sirca logo" />
                                 <div className="card-body">
                                     <h5 className="card-title">Sirca</h5>
-                                    <p className="card-text">Sirca International SpA  je italijanski proizvođač kompletnih sistema za automatizaciju i pneumatsku regulaciju. Glavni proizvodi kompanije Sirca su rotirajuci pneumatski cetvorostruki aktuatori, zatim proizvodnja i prodaja leptir ventila sa gumenim sedistima, dvostrukih ekscentričnih leptir ventila, kugličnih i povratnih ventila. Deo proizvodnje su i dodaci za aktiviranje, kontrolu i regulaciju ventila. Najnoviji proizvod kompanije Sirca su trostrukI ekscentriči leptir ventili sa metalnim sedištem.</p>
+                                    <p className="card-text">Sirca International S.p.A. je italijanski proizvođač kompletnih sistema za automatizaciju i pneumatsku regulaciju. Glavni proizvodi kompanije Sirca su rotirajuci pneumatski četvorostruki aktuatori, zatim proizvodnja i prodaja leptir ventila sa gumenim sedistima, dvostrukih ekscentričnih leptir ventila, kugličnih i povratnih ventila. Deo proizvodnje su i dodaci za aktiviranje, kontrolu i regulaciju ventila. Najnoviji proizvod kompanije Sirca su trostruki ekscentriči leptir ventili sa metalnim sedištem.</p>
                                     <p className="card-text"><small className="text-muted text-uppercase"><a href = "https://www.sircainternational.com/sircainternational/" target = "_blank" rel="noopener noreferrer">Link do proizvođača</a></small></p>
                                 </div>
                             </div>
@@ -101,7 +101,7 @@ const Zastupnistvo = () => {
                                 <img src= {tge} className="card-img-top w-75 text-center p-3" alt="T.G.E. logo" />
                                 <div className="card-body">
                                     <h5 className="card-title">T.G.E. Ventilatori</h5>
-                                    <p className="card-text">T.G.E VENTILATORI srl je specijalizovana za proizvodnju industrijskih centrifugalnih ventilatora i kompresorakapi pratece opreme. Glavne delatnosti su dizajniranje i proizvodnja teških centrifugalnih i aksijalnih ventilatora, tehnička podrška i rešavanje problema, služba za korisnike na licu mesta sa visoko kvalifikovanim osobljem sa najsavremenijim instrumentima i opremom.</p>
+                                    <p className="card-text">T.G.E VENTILATORI S.R.L. je specijalizovana za proizvodnju industrijskih centrifugalnih ventilatora i kompresora kao i pratece opreme. Glavne delatnosti su dizajniranje i proizvodnja teških centrifugalnih i aksijalnih ventilatora, tehnička podrška i rešavanje problema, služba za korisnike na licu mesta sa visoko kvalifikovanim osobljem sa najsavremenijim instrumentima i opremom.</p>
                                     <p className="card-text"><small className="text-muted text-uppercase"><a href = "http://www.tgeventilatori.com/?lang=en" target = "_blank" rel="noopener noreferrer">Link do proizvođača</a></small></p>
                                 </div>
                             </div>
