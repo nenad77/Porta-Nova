@@ -67,7 +67,7 @@ const Zastupnistvo = () => {
                                 <img src= {felm} className="card-img-top w-75 text-center p-3" alt="Felm logo" />
                                 <div className="card-body">
                                     <h5 className="card-title">Felm</h5>
-                                    <p className="card-text">FELM posluje u sektoru elektromotora od 1960. godine i ima veliko iskustvo na tržištu električnih mašina. Projektovanje i izrada elektro motora je glavna delatnost kompanije.Zahvaljujući stručnosti svog osoblja, može garantovati tehničku podršku koja će udovoljiti najsofisticiranijim tehničkim zahtevima, prilikom instalacija, kao i kod održavanja.</p>
+                                    <p className="card-text">FELM posluje u sektoru elektromotora od 1960. godine i ima veliko iskustvo na tržištu električnih mašina. Projektovanje i izrada elektro motora je glavna delatnost kompanije. Zahvaljujući stručnosti svog osoblja, može garantovati tehničku podršku koja će udovoljiti najsofisticiranijim tehničkim zahtevima, prilikom instalacija, kao i kod održavanja.</p>
                                     <p className="card-text"><small className="text-muted text-uppercase"><a href = "http://www.felm.it/en/home-2/" target = "_blank" rel="noopener noreferrer">Link do proizvođača</a></small></p>
                                 </div>
                             </div>
@@ -135,7 +135,7 @@ const Zastupnistvo = () => {
                                 <img src= {petruzalek} className="card-img-top w-75 text-center p-3" alt="Petruzalek logo" />
                                 <div className="card-body">
                                     <h5 className="card-title">Petruzalek d.o.o.</h5>
-                                    <p className="card-text">Petruzalek je kompanija koja posluje sa tehnologijama za pakovanje. Nudimo širok asortiman mašina i materijala za pakovanje, redovan servis i održavanje u svim zemljama.</p>
+                                    <p className="card-text">Petruzalek je kompanija koja posluje sa tehnologijama za pakovanje. Nudimo širok asortiman mašina i materijala za pakovanje, redovan servis i održavanje u svim zemljama. Prioritet grupe je zadovoljan kupac i stoga obezbedjujemo kompleksna rešenja na polju pakovanja, distribuciju i kontinuirane servisne usluge. Naša linija proizvoda uključuje mašine za ručno pakovanje, automatske mašine za pakovanje, širok izbor materijala za pakovanje, od folija preko kesa i čaša do artikala za higijenu.</p>
                                     <p className="card-text"><small className="text-muted text-uppercase"><a href = "http://www.petruzalek.rs/" target = "_blank" rel="noopener noreferrer">Link do proizvođača</a></small></p>
                                 </div>
                             </div>
