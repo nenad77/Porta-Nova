@@ -28,7 +28,7 @@ const Zastupnistvo = () => {
                 
                 <div className = "my-2">
                     <div className="row">
-                        <div className = "col-md-4">
+                        <div className = "col-sm-6 col-md-4">
                             <div className = "card">
                                 <img src= {neuFilter} className="card-img-top w-75 text-center p-3" alt="Neu filter logo" />
                                 <div className="card-body">
@@ -38,7 +38,7 @@ const Zastupnistvo = () => {
                                 </div>
                             </div>
                         </div>
-                        <div className="col-md-4">
+                        <div className="col-sm-6 col-md-4">
                             <div className = "card">
                                 <img src= {cm} className="card-img-top w-75 text-center p-3" alt="CM logo" />
                                 <div className="card-body">
@@ -48,7 +48,7 @@ const Zastupnistvo = () => {
                                 </div>
                             </div>
                         </div>
-                        <div className="col-md-4">
+                        <div className="col-sm-6 col-md-4">
                             <div className = "card">
                                 <img src= {brofind} className="card-img-top w-75 text-center p-3" alt="Brofind logo" />
                                 <div className="card-body">
@@ -62,7 +62,7 @@ const Zastupnistvo = () => {
                 </div>
                 <div className = "my-2">
                     <div className="row">
-                        <div className="col-md-4">
+                        <div className="col-sm-6 col-md-4">
                             <div className = "card">
                                 <img src= {felm} className="card-img-top w-75 text-center p-3" alt="Felm logo" />
                                 <div className="card-body">
@@ -72,7 +72,7 @@ const Zastupnistvo = () => {
                                 </div>
                             </div>
                         </div>
-                        <div className="col-md-4">
+                        <div className="col-sm-6 col-md-4">
                             <div className = "card">
                                 <img src= {fluimac} className="card-img-top w-75 text-center p-3" alt="Fluimac logo" />
                                 <div className="card-body">
@@ -82,7 +82,7 @@ const Zastupnistvo = () => {
                                 </div>
                             </div>
                         </div>
-                        <div className="col-md-4">
+                        <div className="col-sm-6 col-md-4">
                             <div className = "card">
                                 <img src= {sirca} className="card-img-top w-75 text-center p-3" alt="Sirca logo" />
                                 <div className="card-body">
@@ -96,7 +96,7 @@ const Zastupnistvo = () => {
                 </div>
                 <div className = "my-2">
                     <div className="row">
-                        <div className="col-md-4">
+                        <div className="col-sm-6 col-md-4">
                             <div className = "card">
                                 <img src= {tge} className="card-img-top w-75 text-center p-3" alt="T.G.E. logo" />
                                 <div className="card-body">
@@ -106,7 +106,7 @@ const Zastupnistvo = () => {
                                 </div>
                             </div>
                         </div>
-                        <div className="col-md-4">
+                        <div className="col-sm-6 col-md-4">
                             <div className = "card">
                                 <img src= {thermoTrade} className="card-img-top w-75 text-center p-3" alt="Thermo-Trade logo" />
                                 <div className="card-body">
@@ -116,7 +116,7 @@ const Zastupnistvo = () => {
                                 </div>
                             </div>
                         </div>
-                        <div className="col-md-4">
+                        <div className="col-sm-6 col-md-4">
                             <div className = "card">
                                 <img src= {trasmetal} className="card-img-top w-75 text-center p-3" alt="Trasmetal logo" />
                                 <div className="card-body">
@@ -130,7 +130,7 @@ const Zastupnistvo = () => {
                 </div>
                 <div className = "my-2">
                     <div className="row">
-                        <div className="col-md-4">
+                        <div className="col-sm-6 col-md-4">
                             <div className = "card">
                                 <img src= {petruzalek} className="card-img-top w-75 text-center p-3" alt="Petruzalek logo" />
                                 <div className="card-body">

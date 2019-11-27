@@ -5,3 +5,22 @@
 .container-dealers .card-body {
     height: 485px;
 }
+
+@media (max-width: 1200px) { 
+    .container-dealers .card-body {
+        height: 550px;
+    }
+ }
+
+ 
+@media (min-width:769px) and (max-width: 991px) { 
+    .container-dealers .card-body {
+        height: 800px;
+    }
+ }
+
+ @media (max-width:768px) {
+    .container-dealers .card-body {
+        height: unset;
+    }
+ }
